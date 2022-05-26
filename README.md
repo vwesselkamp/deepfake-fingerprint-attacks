@@ -2,7 +2,7 @@
 
 ![GAN fingerprints](img/header.png)
 
-Code accompanying the 2022 DLS paper **_Misleading Deep-Fake Detection with GAN Fingerprints_**.
+Code accompanying the 2022 DLS paper **_[Misleading Deep-Fake Detection with GAN Fingerprints](https://arxiv.org/abs/2205.12543)_**.
 >Generative adversarial networks (GANs) have made
 remarkable progress in synthesizing realistic-looking images that
 effectively outsmart even humans. Although several detection
